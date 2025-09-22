@@ -12,3 +12,5 @@ Then you can:
 * Double-click on a blank monitor to unblank all monitors
 * Right-click on a blank monitor to change the color, enable always-on-top, or blank/unblank specific monitors
 * By default, without always-on-top, you can freely alt+tab to apps in blanked monitors, do something in them, then click on the blank background to resume blanking.
+
+[You can find the latest release (blank.zip) here.](https://github.com/thisismypassport/blank/releases/) 
